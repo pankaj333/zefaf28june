@@ -1,0 +1,19 @@
+body{
+	 background:#F5F5F5 ;
+	 /*padding-top:15px;*/
+}
+
+.login_box{ width:285px; margin:10% auto auto auto; ;}
+.login_box_logo{ width:150px; margin:auto auto 10px auto; top:20%;}
+
+.login_box_bg{
+	background-color: #FFFFFF;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+    margin: 20px 0px 15px 0px;
+    padding: 15px;
+    width: 252px;
+	min-height:100px;
+	border:#CCC 1px solid;
+}
+
